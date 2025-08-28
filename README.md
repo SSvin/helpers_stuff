@@ -1,2 +1,2 @@
 # helpers_stuff
-Some helpers items for work
+Some helpful items for work
