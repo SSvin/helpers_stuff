@@ -51,4 +51,4 @@ sudo apt -y purge globalprotect
 
 ---
 
-Script written by Serhii Shulhin.
+Script written by Serhii Shulhin. Please put a star on this repo.
